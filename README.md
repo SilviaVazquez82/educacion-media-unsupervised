@@ -21,12 +21,3 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
-## Main files
-- `data/processed/matriculaciones_departamentos_distritos_20260120.csv`
-- `notebooks/Identificacion_patrones_MEC_organizado_github.ipynb`
-
-## Reproducibility
-This repository includes the processed dataset, notebook, and generated figures needed to reproduce the main analysis presented in the study.
-
-## License
-MIT
