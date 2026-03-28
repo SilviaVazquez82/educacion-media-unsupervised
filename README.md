@@ -19,5 +19,9 @@ The project includes:
 ## Requirements
 Install dependencies with:
 
+```markdown
+## Requirements
+Install dependencies with:
+
 ```bash
 pip install -r requirements.txt
